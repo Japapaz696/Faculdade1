@@ -1,5 +1,48 @@
 @charset "UTF-8";
-@media (min-width: 320px) and (max-width: 480px){
+@media (max-width: 458px) {
+    h1{
+        font-size: 35px;
+    }
+    h2{
+        font-size: 35px;
+    }
+    h3{
+        font-size: 8px;
+    }
+    .assunto{
+        float: left;
+        margin: 40px;
+   
+        }
+        #conteudo2{
+            float: left;
+            position: relative;
+            left: -17px;
+        }
+        #foto3{
+            width: 150px;
+            text-align: center;
+            position: relative;
+            top: 70px;
+            right: 40px;
+        }
+        nav>a{
+            margin: 2px;
+            position: relative;
+            bottom: 40px;
+            left: 35px;
+            text-decoration: none;
+            color: black;
+            font-size: 10px;
+            
+            
+        }
+        #butao{
+
+            top: 30px;
+        }
+}
+@media (min-width: 459px) and (max-width: 480px){
     h1{
         font-size: 45px;
     }
