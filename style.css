@@ -1,0 +1,91 @@
+@charset "UTF-8";
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #24b47c;
+    font-family: sans-serif;
+}
+#cabeca{
+    background: white;
+    height: 100px;
+    width: 100%;
+    
+    
+}
+
+#foto1{
+    width:90px ;
+    text-align: right;
+    margin-left: 10px;
+}
+#a2{
+    text-align: center;
+}
+nav{
+    display: inline;
+    margin: 10px;
+    
+}
+nav>a{
+    margin: 55px;
+    position: relative;
+    bottom: 40px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    
+    
+}
+
+.assunto{
+float: left;
+margin: 100px;
+}
+h1,h2{
+    font-size: 100px;
+}
+h1{
+    color: white;
+}
+h2{
+    color: #13e344 ;
+}
+h3{
+    font-size: 40px;
+    color: white;
+}
+#butao>a{
+    text-decoration: none;
+    color: black;
+}
+#butao{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.479);
+    text-align: center;
+    width: 100px;
+    height: 20px;
+    background: white;
+    padding: 12px;
+    border-radius: 10px;
+    position: relative;
+    top: 70px;
+}
+#conteudo{
+    width: 100%;
+}
+#conteudo3{
+    float: right;
+}
+#conteudo2{
+    float: left;
+    position: relative;
+    left: 200px;
+}
+#foto3{
+    width: 900px;
+    text-align: center;
+    position: relative;
+    top: 70px;
+    right: 150px;
+}
