@@ -1,17 +1,17 @@
 @charset "UTF-8";
 @media (min-width: 10px) and (max-width: 458px) {
     h1{
-        font-size: 35px;
+        font-size: 25px;
     }
     h2{
-        font-size: 35px;
+        font-size: 25px;
     }
     h3{
-        font-size: 8px;
+        font-size: 6px;
     }
     .assunto{
         float: left;
-        margin: 40px;
+        margin: 30px;
    
         }
         #conteudo2{
@@ -54,7 +54,7 @@
     }
     .assunto{
         float: left;
-        margin: 40px;
+        margin: 30px;
    
         }
         #conteudo2{
