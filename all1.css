@@ -1,0 +1,71 @@
+@charset "UTF-8";
+@media (min-width: 10px) and (max-width: 458px) {
+    #img1{
+        position: absolute;
+        top: 200%;
+        left: 50%;
+        height: 100px;
+        transform: translate(-50%, -50%);
+        
+    }
+}
+@media (min-width: 459px) and (max-width: 480px){
+    #img1{
+        position: absolute;
+        top: 200%;
+        left: 50%;
+        height: 100px;
+        transform: translate(-50%, -50%);
+        
+    }
+}
+@media (min-width: 481px) and (max-width: 758px){
+    #img1{
+        position: absolute;
+        top: 200%;
+        left: 50%;
+        height: 100px;
+        transform: translate(-50%, -50%);
+        
+    }
+}
+@media (min-width: 759px) and (max-width: 850px){
+    #img1{
+        position: absolute;
+        top: 200%;
+        left: 50%;
+        height: 100px;
+        transform: translate(-50%, -50%);
+        
+    }
+}
+@media (min-width: 851px) and (max-width: 1024px){
+    #img1{
+        position: absolute;
+        top: 200%;
+        left: 50%;
+        height: 100px;
+        transform: translate(-50%, -50%);
+        
+    }
+}
+@media (min-width: 1025px) and (max-width: 1200px){
+    #img1{
+        position: absolute;
+        top: 200%;
+        left: 50%;
+        height: 100px;
+        transform: translate(-50%, -50%);
+        
+    }
+}
+@media (min-width: 1201x){
+    #img1{
+        position: absolute;
+        top: 200%;
+        left: 50%;
+        height: 100px;
+        transform: translate(-50%, -50%);
+        
+    }
+}
