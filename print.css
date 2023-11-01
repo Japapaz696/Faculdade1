@@ -1,5 +1,37 @@
 @charset "UTF-8";
 @media (min-width: 10px) and (max-width: 458px) {
+    #foto1{
+        width:65px ;
+        text-align: right;
+        margin-left: 10px;
+        position: relative;
+        top: 20px;
+    }
+    #a2{
+        text-align: center;
+    }
+    ul{
+        width: 750px;
+        position: relative;
+        left: 60px;
+        bottom: 10px;
+        margin: auto;
+        
+     
+    }
+    li{
+        padding-left: 17px;
+        display: inline;
+     
+    }
+    ul>li>a{
+        text-decoration: none;
+        color: black;
+        font-size: 10px;
+        
+        
+        
+    }
     h1{
         font-size: 25px;
     }
@@ -43,6 +75,38 @@
         }
 }
 @media (min-width: 459px) and (max-width: 480px){
+    #foto1{
+        width:65px ;
+        text-align: right;
+        margin-left: 10px;
+        position: relative;
+        top: 20px;
+    }
+    #a2{
+        text-align: center;
+    }
+    ul{
+        width: 750px;
+        position: relative;
+        left: 60px;
+        bottom: 10px;
+        margin: auto;
+        
+     
+    }
+    li{
+        padding-left: 17px;
+        display: inline;
+     
+    }
+    ul>li>a{
+        text-decoration: none;
+        color: black;
+        font-size: 10px;
+        
+        
+        
+    }
     h1{
         font-size: 45px;
     }
