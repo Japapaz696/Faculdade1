@@ -58,17 +58,7 @@
             top: 70px;
             right: 40px;
         }
-        nav>a{
-            margin: 2px;
-            position: relative;
-            bottom: 40px;
-            left: 35px;
-            text-decoration: none;
-            color: black;
-            font-size: 10px;
-            
-            
-        }
+        
         #butao{
 
             top: 30px;
@@ -102,7 +92,7 @@
     ul>li>a{
         text-decoration: none;
         color: black;
-        font-size: 10px;
+        font-size: 11px;
         
         
         
@@ -133,64 +123,73 @@
             top: 70px;
             right: 40px;
         }
-        nav>a{
-            margin: 2px;
-            position: relative;
-            bottom: 40px;
-            left: 35px;
-            text-decoration: none;
-            color: black;
-            font-size: 15px;
-            
-            
-        }
+        
         #butao{
 
             top: 30px;
         }
 }
 @media (min-width: 481px) and (max-width: 758px){
-    h1{
-        font-size: 55px;
+    #foto1{
+        width:65px ;
+        text-align: right;
+        margin-left: 10px;
+        position: relative;
+        top: 20px;
     }
-    h2{
-        font-size: 55px;
+    #a2{
+        text-align: center;
     }
-    h3{
-        font-size: 20px;
+    ul{
+        width: 460px;
+        position: relative;
+        left: 10px;
+        bottom: 10px;
+        margin: auto;
+        
+     
     }
-    .assunto{
-        float: left;
-        margin: 40px;
-   
+    li{
+        padding-left: 10px;
+        display: inline;
+     
+    }
+    ul>li>a{
+        text-decoration: none;
+        color: black;
+        font-size: 14px;}
+    
+        h1{
+            font-size: 55px;
         }
-        #conteudo2{
-            float: left;
-            position: relative;
-            left: -17px;
+        h2{
+            font-size: 55px;
         }
-        #foto3{
-            width: 300px;
-            text-align: center;
-            position: relative;
-            top: 70px;
-            right: 40px;
-        }
-        nav>a{
-            margin: 12px;
-            position: relative;
-            bottom: 40px;
-            left: 35px;
-            text-decoration: none;
-            color: black;
+        h3{
             font-size: 20px;
-            
-            
         }
-        #butao{
-
-            top: 30px;
-        }
+        .assunto{
+            float: left;
+            margin: 30px;
+       
+            }
+            #conteudo2{
+                float: left;
+                position: relative;
+                left: -17px;
+            }
+            #foto3{
+                width: 282px;
+                text-align: center;
+                position: relative;
+                top: 70px;
+                right: 40px;
+            }
+            
+            #butao{
+    
+                top: 30px;
+            }
 }
 @media (min-width: 759px) and (max-width: 850px){
     h1{
