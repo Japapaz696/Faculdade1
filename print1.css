@@ -192,7 +192,7 @@
 @media (min-width: 851px) and (max-width: 1024px){
     #img1{
         position: absolute;
-        top: 145%;
+        top: 100%;
         left: 50%;
         height: 100px;
         transform: translate(-50%, -50%);
@@ -202,7 +202,7 @@
 @media (min-width: 1025px) and (max-width: 1200px){
     #img1{
         position: absolute;
-        top: 136%;
+        top: 100%;
         left: 50%;
         height: 100px;
         transform: translate(-50%, -50%);
