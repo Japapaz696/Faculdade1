@@ -25,13 +25,15 @@ h1{
     font-size: 50px;
 }
 
-#conteudo1{
-    width: 100%;
+#conteudo{
+    width: 800px;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    height: 250px;
-    transform: translate(-50%, -50%);
+
+top: 99%;
+
+left: 50%;
+
+transform: translate(-50%, -50%);
     
 }
 p{
@@ -45,7 +47,7 @@ h3{
 }
 #img1{
     position: absolute;
-    top: 110%;
+    top: 98%;
     left: 50%;
     height: 100px;
     transform: translate(-50%, -50%);
