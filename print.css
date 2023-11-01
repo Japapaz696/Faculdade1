@@ -133,7 +133,7 @@
     #foto1{
         width:65px ;
         text-align: right;
-        margin-left: 10px;
+        margin-left: 0px;
         position: relative;
         top: 20px;
     }
@@ -319,6 +319,31 @@
         }
 }
 @media (min-width: 1025px) and (max-width: 1200px){
+    #foto1{
+        width:85px ;
+        text-align: right;
+        margin-left: 10px;
+        position: relative;
+        top: -4px;
+    }
+    ul{
+        width: 700px;
+        position: relative;
+        left: 10px;
+        bottom: 41px;
+        text-align: center;
+        
+     
+    }
+    li{
+        padding-left: 10px;
+        display: inline;
+     
+    }
+    ul>li>a{
+        text-decoration: none;
+        color: black;
+        font-size: 17px;}
     h1{
         font-size: 75px;
     }

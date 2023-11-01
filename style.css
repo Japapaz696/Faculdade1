@@ -25,15 +25,13 @@ body{
     position: relative;
     bottom: 4px;
 }
-#a2{
-    text-align: center;
-}
 ul{
     width: 750px;
     position: relative;
     left: 200px;
     bottom: 50px;
     margin: auto;
+    text-align: left;
     
  
 }
