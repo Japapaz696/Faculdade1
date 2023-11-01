@@ -137,9 +137,6 @@
         position: relative;
         top: 20px;
     }
-    #a2{
-        text-align: center;
-    }
     ul{
         width: 460px;
         position: relative;
@@ -179,7 +176,7 @@
                 left: -17px;
             }
             #foto3{
-                width: 282px;
+                width: 175px;
                 text-align: center;
                 position: relative;
                 top: 70px;
@@ -192,6 +189,31 @@
             }
 }
 @media (min-width: 759px) and (max-width: 850px){
+    #foto1{
+        width:85px ;
+        text-align: right;
+        margin-left: 10px;
+        position: relative;
+        top: -4px;
+    }
+    ul{
+        width: 489px;
+        position: relative;
+        left: 10px;
+        bottom: 41px;
+        text-align: center;
+        
+     
+    }
+    li{
+        padding-left: 10px;
+        display: inline;
+     
+    }
+    ul>li>a{
+        text-decoration: none;
+        color: black;
+        font-size: 15px;}
     h1{
         font-size: 85px;
     }
@@ -235,6 +257,31 @@
         }
 }
 @media (min-width: 851px) and (max-width: 1024px){
+    #foto1{
+        width:85px ;
+        text-align: right;
+        margin-left: 10px;
+        position: relative;
+        top: -4px;
+    }
+    ul{
+        width: 700px;
+        position: relative;
+        left: 10px;
+        bottom: 41px;
+        text-align: center;
+        
+     
+    }
+    li{
+        padding-left: 10px;
+        display: inline;
+     
+    }
+    ul>li>a{
+        text-decoration: none;
+        color: black;
+        font-size: 17px;}
     h1{
         font-size: 65px;
     }
