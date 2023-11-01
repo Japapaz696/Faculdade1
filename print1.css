@@ -18,10 +18,10 @@
     }
     
     #conteudo{
-        width: 100px;
+        width: 140px;
         position: absolute;
     
-    top: 99%;
+    top: 310%;
     
     left: 50%;
     
@@ -39,7 +39,7 @@
     }
     #img1{
         position: absolute;
-        top: 98%;
+        top: 99%;
         left: 50%;
         height: 100px;
         transform: translate(-50%, -50%);
