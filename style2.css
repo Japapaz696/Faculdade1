@@ -31,6 +31,9 @@ h1{
     display: inline-block;
     text-align: center;
 }
+#conteudoplus{
+    float: right;
+}
 #conteudo{
     height: 100%;
     margin: auto;
