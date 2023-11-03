@@ -1,0 +1,50 @@
+@charset "UTF-8";
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #24b47c;
+    font-family: sans-serif;
+}
+#cabeca{
+    background: white;
+    height: 100px;
+    width: 100%;
+    
+    
+    
+}
+
+#foto1{
+    width:85px ;
+    text-align: right;
+    margin-left: 10px;
+    position: relative;
+    bottom: 4px;
+}
+ul{
+    width: 750px;
+    position: relative;
+    left: 200px;
+    bottom: 50px;
+    margin: auto;
+    text-align: left;
+    
+ 
+}
+li{
+    padding-left: 17px;
+    display: inline;
+ 
+}
+ul>li>a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    
+    
+    
+}
